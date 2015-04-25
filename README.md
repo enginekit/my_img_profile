@@ -1,7 +1,5 @@
 # my_img_profile
 
-used img from
-
 http://commons.wikimedia.org/wiki/File:Prim_clockwork.jpg
 
 Clockwork of mechanical Prim wrist watch
